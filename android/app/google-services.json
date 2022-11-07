@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560192288448",
+    "project_id": "emailauth-c22d6",
+    "storage_bucket": "emailauth-c22d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560192288448:android:873a216f2a22c991499f25",
+        "android_client_info": {
+          "package_name": "com.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560192288448-tr7801oro9huhii5l2febbsurusuoens.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxMeMgsPXrJf-in06mHkqcqCTAI4KePoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560192288448-tr7801oro9huhii5l2febbsurusuoens.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
